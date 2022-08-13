@@ -16,7 +16,7 @@ const NavBar = () => {
                     <a a href="/">Learn More</a>
                 </li>
                 <li>
-                    <a a href="/">Log</a>
+                    <a a href="/">Log In</a>
                 </li>
                 <li>
                     <a a href="/">Sign Up</a>
