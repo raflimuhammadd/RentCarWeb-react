@@ -64,10 +64,7 @@ form label {
     padding: 0.4rem 0;
 }
 
-.search_btn {
-    display: flex;
-    align-items: center;
-}
+
 
 .search_btn .btn {
     display: none;

@@ -16,7 +16,7 @@ const Find = () => {
             <div className={styles.text_bg}>
             <p>
                 <span>
-                    Explore the world's largest car sharing marketplace
+                    Explore The World's Largest Car Sharing Marketplace
                 </span>
             </p>
             </div>

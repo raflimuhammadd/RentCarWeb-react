@@ -13,13 +13,13 @@ const NavBar = () => {
         <nav>
             <ul className={nav ? [styles.menu, styles.active].join(' ') : [styles.menu]}>
                 <li>
-                    <a a href="/">Learn More</a>
+                    <a a href="/#">Learn More</a>
                 </li>
                 <li>
-                    <a a href="/">Log In</a>
+                    <a a href="/#">Log In</a>
                 </li>
                 <li>
-                    <a a href="/">Sign Up</a>
+                    <a a href="/#">Sign Up</a>
                 </li>
                 <li>
                     <AiOutlineSearch size={25} style={{marginTop: '6px'}}/>
@@ -30,7 +30,7 @@ const NavBar = () => {
             </ul>
         </nav>
         <div onClick={() => setNav(!nav)} className={styles.mob_btn}>
-            {nav ?  <AiOutlineClose size={25}/> : <AiOutlineMenu size={25}/>}
+            {nav ?  <AiOutlineClose size={30}/> : <AiOutlineMenu size={30}/>}
         </div>
     </header>
     
