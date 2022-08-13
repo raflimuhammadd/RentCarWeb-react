@@ -120,11 +120,12 @@ form label {
         padding: 12px;
         margin: 0.5rem 0;
         cursor: pointer;
+        border-radius: 25px;
     }
 
     .search_btn .btn:hover {
         background-color: #4733b7;
-        transition: background-color 0.2s ease-in-out;
+        transition: background-color 0.3s linear;
     }
 
     .icon {
