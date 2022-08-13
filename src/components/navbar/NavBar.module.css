@@ -12,14 +12,15 @@
     align-items: center;
 }
 
+.menu li {
+    padding: 1rem;
+}
+
 .navbar a {
     color: #333;
     font-size: 0.8rem; 
 }
 
-.menu li {
-    padding: 1rem;
-}
 
 .mob_btn {
     display: none;
